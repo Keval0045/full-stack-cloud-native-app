@@ -55,6 +55,7 @@ This project demonstrates a scalable e-commerce system powered by:
     |   MongoDB + RabbitMQ|
      -------------------
 ```
+![Algonquin Pet Store On Steroids](https://github.com/user-attachments/assets/b967111f-4d45-4017-8b14-a85c4d102154)
 
 ---
 
