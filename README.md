@@ -203,5 +203,5 @@ kubectl port-forward service/rabbitmq 15672:15672
 ```
 
 ---
-
+https://youtu.be/nUjwltxGk4U
 
